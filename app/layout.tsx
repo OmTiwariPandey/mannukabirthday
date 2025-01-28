@@ -7,7 +7,7 @@ import { InfiniteScrollElements } from "@/components/infinite-scroll-elements";
 
 export const metadata: Metadata = {
   title: "Happy Birthday meri behena! ❤️",
-  description: "A special birthday message for someone special",
+  description: "meri behen ka birthday hai hehe",
 };
 
 export default function RootLayout({
